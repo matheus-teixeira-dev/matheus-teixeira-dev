@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá! Eu sou o Matheus Teixeira 👋
 
-<!--
-**matheus-teixeira-dev/matheus-teixeira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Tecnologia da Informação | Segurança da Informação
 
-Here are some ideas to get you started:
+Sou estudante de **Tecnologia em Segurança da Informação na Fatec** e formado como técnico em **Análise e Desenvolvimento de Sistemas pela Etec**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse em diferentes áreas da Tecnologia da Informação, especialmente Segurança da Informação, infraestrutura, suporte e desenvolvimento de software.
+
+Atualmente, estou buscando ampliar meus conhecimentos por meio de estudos, projetos práticos e experiências acadêmicas.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+**Conhecimentos e experiências acadêmicas:**
+
+- Linux (Debian e Kali Linux)
+- Python
+- C#
+- SQL
+- Wazuh (SIEM)
+- nftables
+- Squid Proxy
+- Git e GitHub
+
+## 🎯 Objetivos
+
+- Aprofundar meus conhecimentos em Segurança da Informação.
+- Desenvolver projetos práticos e documentar meu aprendizado.
+- Aprimorar minhas habilidades em infraestrutura e desenvolvimento.
+- Conquistar minha primeira oportunidade profissional na área de TI.
+
+## 🎓 Formação
+
+- **Fatec** — Tecnologia em Segurança da Informação *(em andamento)*
+- **Etec** — Técnico em Análise e Desenvolvimento de Sistemas
+
+---
+
+## 🌐 Contato
+
+- LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/matheus-teixeira-631206322/)
+- GitHub: [@EoXeras](https://github.com/EoXeras)
+- Email : matheuscarvalho48.contato@gmail.com
+---
+
+*Em constante aprendizado e evolução.*
